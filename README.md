@@ -6,6 +6,7 @@ A quick repo to download all the dataset to finetune your LLM. Pull requests are
 
 | Data                  | Quantity |                             Source                             | Description                                                    |
 | ---------------------- | :--: | :----------------------------------------------------------: | ------------------------------------------------------- |
+| AlpacaGPT3.5Customized | 56k |       [Link](https://huggingface.co/datasets/whitefox44/AlpacaGPT3.5Customized)                    | generated from GPT-3.5 and extreme content filtering removed and replace with relevant generated outputs, specifically designed for training Alpaca-like models     |
 | Chinese- English Translation dataset    | 500K | [Link](https://github.com/brightmart/nlp_chinese_corpus#5翻译语料translation2019zh) | 	Sampled and filtered based on the original dataset                 |
 | GPT4all (Without P3) | ~440k |       [Link](https://huggingface.co/datasets/nomic-ai/gpt4all_prompt_generations)                    | Contains Laion OIG unified chip2, stackoverflow questions and Bigscience/P3 and pruned the P3 dataset     |
 | pCLUE dataset            | 300K |        [Link](https://github.com/CLUEbenchmark/pCLUE)        | Sampled and filtered based on the original dataset               |
