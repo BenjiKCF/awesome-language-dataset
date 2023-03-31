@@ -12,4 +12,5 @@ A quick repo to download all the dataset to finetune your LLM
 | Stanford Alpaca dataset (English) | 50K  |     [Link](https://github.com/tatsu-lab/stanford_alpaca)     | Original Stanford Alpaca training data        |
 | Stanford Alpaca dataset (Cantonese) | 50K  |    To be released  | Translated from the Chinese version using the ChatGPT interface  |
 | Stanford Alpaca dataset (Chinese) | 50K  |                 [Link](https://github.com/ymcui/Chinese-LLaMA-Alpaca/blob/main/data/alpaca_data_zh_51k.json)     | Translated from the English version using the ChatGPT interface (with some parts discarded) |
+| Stanford Alpaca dataset (Japanese) | 50K  |                 [Link](https://github.com/masa3141/japanese-alpaca-lora/tree/main/data)     | Translated from the English version  |
 | Laion OIG | ~44M  |       [Link](https://huggingface.co/datasets/laion/OIG )                    |  large instruction dataset of medium quality along with a smaller high quality instruciton dataset        |
