@@ -1,7 +1,7 @@
 # awesome-language-dataset
 Collection of all language dataset for finetuning LLM
 
-A quick repo to download all the dataset to finetune your LLM
+A quick repo to download all the dataset to finetune your LLM. Pull requests are welcome.
 
 
 | Data                  | Quantity |                             Source                             | Description                                                    |
